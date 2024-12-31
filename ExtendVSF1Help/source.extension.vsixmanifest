@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" ?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ExtendVSF1Help.49cf68c8-31d5-446b-a528-65db5ea0712a" Version="1.0" Language="en-US" Publisher="Ákos Nagy" />
+        <Identity Id="ExtendVSF1Help.49cf68c8-31d5-446b-a528-65db5ea0712a" Version="1.0" Language="en-US" Publisher="CONWID" />
         <DisplayName>Visual Studio Google Help</DisplayName>
         <Description xml:space="preserve">Visual Studio extension to do Google search when F1 is pressed.</Description>
         <MoreInfo>https://dotnetfalcon.com/adding-your-own-help-functionality-to-visual-studio-f1-help/</MoreInfo>
